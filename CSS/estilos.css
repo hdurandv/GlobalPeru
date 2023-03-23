@@ -7,6 +7,31 @@ body {
   margin-bottom: 20px;
 }
 
+/*Carrusel*/
+
+.carousel {
+  margin-bottom: 4rem;
+  width: 100%;
+}
+
+.carousel-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.carousel-item img {
+  margin: auto;
+  max-height: 300px;
+  max-width: 300px;
+  display: block;
+}
+
+.carousel-inner{
+margin: auto;
+}
+
 
 /*PORTADA BAJA*/
 .portadaBaja img {
