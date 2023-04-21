@@ -42,16 +42,6 @@ body {
   height: auto;
 }
 
-/*NOSOTROS*/
-#nuestrosValores div {
-  background-color: green;
-}
-
-.valores div div div img:hover {
-  border-radius: 8px;
-  box-shadow: 4px 4px 4px 5px #999;
-}
-
 /*CONTACTO PRODUCTOS*/
 form {
   width: 500px;
