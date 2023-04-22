@@ -1,7 +1,20 @@
 /*Portal*/
 
-.form-signin {
-    max-width: 330px;
+html {
+    height: 100%;
+  }
+  
+  body {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #f5f5f5;
+  }
+  
+  .form-signin {
+    max-width: 300px;
     padding: 15px;
   
     .form-floating:focus-within {
@@ -22,3 +35,4 @@
       }
     }
   }
+  
